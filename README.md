@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bithelm
 - 👀 I’m interested in Bitcoin
-- 🌱 I’m currently learning Python,Rust & bitcoin development.
+- 🌱 Studying Python, Rust, lighting & bitcoin development.
 - 💞️ I’m looking to collaborate on Bitcoin related projects.
 - 📫 How to reach me https://primal.net/OnBitcoin.
 
