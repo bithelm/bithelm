@@ -1,4 +1,4 @@
-- 👀 I’m interested in Bitcoin, Lighting, Python, Rust and Nostr.
+- 👀 I’m interested in Bitcoin, Lighting, Nostr & Python.
 - 📫 How to reach me https://primal.net/OnBitcoin.
 
 <!---
